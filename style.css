@@ -149,7 +149,7 @@ body{
 .content-text{
   margin-bottom: 20px;
 }
-.content-text:first-of-type{
+.content-text.margin-without{
   margin-bottom: 0;
 }
 /*features block*/
