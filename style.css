@@ -154,6 +154,9 @@ body{
 .content-text{
   margin-bottom: 20px;
 }
+.content-text:first-of-type{
+  margin-bottom: 0;
+}
 /*features block*/
 .features{
   margin-bottom: 10px;
